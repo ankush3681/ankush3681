@@ -34,8 +34,9 @@ An aspiring Full Stack Developer from India. <br> <br>
 
 - ➡️ 🌱 I’m currently learning : *Typescript* <br>
 - ➡️ 📫 How to reach me : ankushkumar83623@gmail.com <br>
-- ➡️ ⚡ Fun fact *“Java is to JavaScript what car is to Carpet.”*<br>
+- ➡️ ⚡ My Portfolio : ankush3681.github.io
 - ➡️ 📫 Graduated From : **https://www.masaischool.com/** <br>
+- 
 
 ## 🌐 Socials:
 
