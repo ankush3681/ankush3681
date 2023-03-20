@@ -2,11 +2,9 @@
 
 
 
-<p align="center">
-<Img width="70%" margin="auto" src= https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966 />
-  </p>
 
-<p align="center">
+<p align="center">![Navy Blue Geometric Technology LinkedIn Banner](https://user-images.githubusercontent.com/112758001/226428923-53561e83-ccba-4b99-a088-51654fe07f2f.gif)
+
   
   
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
