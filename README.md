@@ -3,7 +3,7 @@
 
 
 
-<p align="center">![Navy Blue Geometric Technology LinkedIn Banner](https://user-images.githubusercontent.com/112758001/226428923-53561e83-ccba-4b99-a088-51654fe07f2f.gif)
+![Navy Blue Geometric Technology LinkedIn Banner](https://user-images.githubusercontent.com/112758001/226428923-53561e83-ccba-4b99-a088-51654fe07f2f.gif)
 
   
   
