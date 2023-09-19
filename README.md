@@ -53,7 +53,7 @@ An aspiring Full Stack Developer from India. <br> <br>
 
 <!--
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tejaspedge&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ankush3681&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
  -->
 
