@@ -27,9 +27,9 @@
 
 # 💫 About Me:
 
-An aspiring Full Stack Developer from India. <br> <br>
+A Full Stack Developer from India. <br> <br>
 
-- ➡️ 🌱 I’m currently learning : Next.js <br>
+- ➡️ 🌱 I’m currently learning : Nest.js <br>
 - ➡️ 📫 How to reach me : ankushkumar83623@gmail.com <br>
 - ➡️ ⚡ My Portfolio : https://ankush3681.github.io/ <br>
 - ➡️ 📫 Graduated From : **https://www.masaischool.com/** <br>
